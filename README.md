@@ -27,5 +27,4 @@ make install-cross
 ```
 
 Follow the instruction and install the commands in your shell.
-I.e.  ``` echo 'export PATH=/Users/robin/arm-cs-tools/bin:$PATH' >> ~/.zshrc
-```
+I.e.  ` echo 'export PATH=/Users/robin/arm-cs-tools/bin:$PATH' >> ~/.zshrc`
